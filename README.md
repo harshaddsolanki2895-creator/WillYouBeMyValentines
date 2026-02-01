@@ -63,7 +63,7 @@ This project is designed to be hosted as a simple link.
 **Recommended location:** `docs/assets/SS-1.png` and `docs/assets/SS-2.png`
 
 <details>
-  <summary><strong>SS-2 (Initial screen — “No” runs away)</strong></summary>
+  <summary><strong>Initial screen — “No” runs away</strong></summary>
 
   <br/>
 
@@ -72,7 +72,7 @@ This project is designed to be hosted as a simple link.
 </details>
 
 <details>
-  <summary><strong>SS-1 (After clicking “Yes” — success screen)</strong></summary>
+  <summary><strong>After clicking “Yes” — success screen</strong></summary>
 
   <br/>
 
