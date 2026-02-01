@@ -106,7 +106,7 @@ Made for fun. Use responsibly. 💖
 <br/>
 
 <details>
-  <summary><sub>a secret msg for the loml</sub></summary>
+  <summary><sub>secret msg for the loml</sub></summary>
 
   <br/>
 
